@@ -1,0 +1,2 @@
+# SMART-WARDROBE-A-WEATHER-BASED-CLOTHING-RECOMMENDATION-SYSTEM-FOR-KENYA
+Smart Wardrobe is an AI-powered web system providing personalized, weather-based clothing recommendations for Kenyan conditions. It solves the lack of customization in standard apps by automatically translating live weather data into specific outfit suggestions for men, women, and children across both formal and casual settings.
